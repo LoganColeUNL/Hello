@@ -9,7 +9,7 @@
 #include <stdio.h>
 
 int main(int argc, char **argv) {
-    printf("Hello World! My name is Logan Cole.\n");
+    printf("Hello World! My name is Logan Cole!\n");
     printf("And my major is Computer Science!\n");
     printf("My name is toasterbot37.\n");
     printf("And my major is CS.\n");
